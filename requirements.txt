@@ -1,0 +1,6 @@
+setuptools==69.5.1
+wheel==0.43.0
+pymono
+streamlit
+sentence_transformers
+python-dotenv
